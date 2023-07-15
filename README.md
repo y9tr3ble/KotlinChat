@@ -1,3 +1,6 @@
+> **Warning**
+> Alpha version, It may contain a variety of errors
+
 # KotlinChat
 
 A simple chat application written in Kotlin using Ktor networking library.
